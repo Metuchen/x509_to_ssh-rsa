@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+Fork this code on <a href='https://github.com/Metuchen/x509_to_ssh-rsa'>GitHub</a>
 <?php
   function mpint($data) {
     $len = strlen($data);
